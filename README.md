@@ -1,5 +1,5 @@
 <div align="center">
-![Custom Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Dayron!%20👋🏾&textBg=false)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Dayron!%20👋🏾&textBg=false)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Dayron!%20👋🏾&textBg=false)
 </div>
 ## 📊 GitHub Stats
 
