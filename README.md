@@ -1,5 +1,8 @@
-<div align="center">
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Dayron!%20👋🏾&textBg=false)]
+<div align="center"> 
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Dayron!%20👋🏾&textBg=false&fontSize=70&section=header&reversal=true)
+
+</div>
 
   
 ## 📊 GitHub Stats
